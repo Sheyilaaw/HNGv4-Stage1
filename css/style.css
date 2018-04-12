@@ -1,0 +1,37 @@
+body{
+    margin: 0 !important;
+    padding: 0!important;
+}
+header {
+    position: absolute;
+    top: 0px;    
+    height: 100px;
+    width: 100%;
+    background-color: #5C1834;
+}
+header > h1 {
+    font-size: 36px;
+    color: white;
+    padding-top: -6%;
+}
+.time-text{
+    width: 80%;
+    font-size: 34px;
+    color: white;
+    position: absolute;
+    top: 25%;
+    left: 10%;
+    right: 10%;    
+}
+h1{
+    font-family: Podkova VF Beta !important;
+    font-style: normal;
+    font-weight: normal;
+    line-height: normal;
+    color: #E5E5E5;
+    text-align: center;
+}
+.background-image {
+    position: relative;
+    top: 100px;
+}
